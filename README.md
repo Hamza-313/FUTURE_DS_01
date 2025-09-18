@@ -104,4 +104,4 @@ Followed by Tamara Chand, Raymond Buch, Tom Ashbrook, and Adrian Barton.
 👤 Customer Value: A small set of customers (Top 5) contribute significantly to sales. Building deeper relationships with these customers could yield higher returns.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. -[Dashboard Preview]([https://github.com/Hamza-313/FUTURE_DS_01/blob/main/Snapshot%20of%20Superstore%20Dashboard.png])
+Show what the dashboard looks like. -[Dashboard Preview](https://github.com/Hamza-313/FUTURE_DS_01/blob/main/Snapshot%20of%20Superstore%20Dashboard.png)
